@@ -1,17 +1,21 @@
 # cooking-recipes
 A bunch of cooking recipes when I run out of ideas for diner
 
-
-[Courge](#Courge)
+## Per ingredients
+- [Courge(ette)](#Courge)
+- [Aubergine](#Aubergine)
 
 ## Vegetarian
 
-Moussaka : 
-  - https://www.750g.com/moussaka-vegetarienne-r41376.htm
-  
+#### Aubergine
+
+- Moussaka (https://www.750g.com/moussaka-vegetarienne-r41376.htm)
+- Caviar d'Aubergine (https://www.ricardocuisine.com/recettes/7967-caviar-d-aubergine-tomate)[rapide]
+
+
 #### Courge
-Courge spaghetti :
-  - https://www.ricardocuisine.com/recettes/4859-courge-spaghetti-aux-oignons-aux-tomates-et-aux-olives [top!]
+
+- Courge spaghetti (https://www.ricardocuisine.com/recettes/4859-courge-spaghetti-aux-oignons-aux-tomates-et-aux-olives) [top!]
  
 Pureé :
    - 
