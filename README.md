@@ -6,6 +6,9 @@ A bunch of cooking recipes when I run out of ideas for diner
 - [Aubergine](#Aubergine)
 - [Epinard](#Epinards)
 
+## Worldwide
+- [Latino](#Latino)
+
 ## Vegetarian
 
 #### Aubergine
@@ -38,4 +41,15 @@ Boulettes :
   - https://www.ricardocuisine.com/recettes/7673-boulettes-de-viande-a-la-sauce-tomate-les-meilleures [done]
   - http://www.5ingredients15minutes.com/fr/recettes/plats-principaux/boeuf/boulettes-de-viande/ [quick][done]   
   - https://www.ricardocuisine.com/recettes/8571-spaghettis-aux-boulettes-a-l-aubergine-et-a-la-sauce-tomate
+  
+## Poissons
+
+Saumon
+- Tartare (https://www.delscookingtwist.com/fr/tartare-de-saumon-avocat-et-mangue/)
+
+Nage de poisson
+
+### Latino
+
+- Empanadas (https://www.youtube.com/watch?v=kNgdRGTnR_0)
 
