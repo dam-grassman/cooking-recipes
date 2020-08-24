@@ -5,6 +5,7 @@ A bunch of cooking recipes when I run out of ideas for diner
 - [Courge(ette)](#Courge)
 - [Aubergine](#Aubergine)
 - [Epinard](#Epinards)
+- [Poireaux](#Poireaux)
 
 ## Worldwide
 - [Latino](#Latino)
