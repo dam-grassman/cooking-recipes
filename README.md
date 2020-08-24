@@ -29,7 +29,8 @@ Cari :
   
 #### Poireaux
 
-- Potage (https://www.recettesjecuisine.com/fr/recettes/soupes/potage-aux-poireaux-et-pommes-de-terre/) [done]
+- Potage (https://www.recettesjecuisine.com/fr/recettes/soupes/potage-aux-poireaux-et-pommes-de-terre/)
+- Fondu + Pétoncles (https://www.marmiton.org/recettes/recette_coquilles-st-jacques-et-leur-fondue-de-poireaux_166384.aspx)
 
  
 ## Viandes
