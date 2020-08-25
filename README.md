@@ -6,6 +6,7 @@ A bunch of cooking recipes when I run out of ideas for diner
 - [Aubergine](#Aubergine)
 - [Epinard](#Epinards)
 - [Poireaux](#Poireaux)
+- [Patate Douce](#Patate-Douce)
 
 ## Worldwide
 - [Latino](#Latino)
@@ -33,6 +34,9 @@ Cari :
 - Potage (https://www.recettesjecuisine.com/fr/recettes/soupes/potage-aux-poireaux-et-pommes-de-terre/)
 - Fondu + Pétoncles (https://www.marmiton.org/recettes/recette_coquilles-st-jacques-et-leur-fondue-de-poireaux_166384.aspx)
 
+#### Patate Douce
+
+- Bateau (https://www.fraichementpresse.ca/recettes/recette-bateau-patate-douce-oeuf-1.3732622?)
  
 ## Viandes
 
