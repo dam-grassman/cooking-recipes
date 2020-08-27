@@ -1,15 +1,25 @@
 # cooking-recipes
 A bunch of cooking recipes when I run out of ideas for diner
 
-## Per ingredients
+# Per ingredients
+
+### Legumes 
 - [Courge(ette)](#Courge)
 - [Aubergine](#Aubergine)
 - [Epinard](#Epinards)
 - [Poireaux](#Poireaux)
 - [Patate Douce](#Patate-Douce)
 
-## Worldwide
+### Viandes
+
+- [Viande Hachée](#Viande-Hachée)
+- [Saumon](#Saumon)
+- [Tout poisson](#Tout-Poisson)
+
+### Worldwide
 - [Latino](#Latino)
+
+__________
 
 ## Vegetarian
 
@@ -43,6 +53,8 @@ Cari :
 Chili :
  - https://www.ricardocuisine.com/recettes/8556-chili-vegetarien-aux-edamames
 
+#### Viande Hachée
+
 Boulettes :
   - https://www.ricardocuisine.com/recettes/7673-boulettes-de-viande-a-la-sauce-tomate-les-meilleures [done]
   - http://www.5ingredients15minutes.com/fr/recettes/plats-principaux/boeuf/boulettes-de-viande/ [quick][done]   
@@ -50,10 +62,12 @@ Boulettes :
   
 ## Poissons
 
-Saumon
+#### Saumon
+
 - Tartare (https://www.delscookingtwist.com/fr/tartare-de-saumon-avocat-et-mangue/)
 
-Nage de poisson
+#### Tout Poisson 
+ - Nage de poisson
 
 ### Latino
 
