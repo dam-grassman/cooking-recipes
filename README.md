@@ -9,6 +9,7 @@ A bunch of cooking recipes when I run out of ideas for diner
 - [Epinard](#Epinards)
 - [Poireaux](#Poireaux)
 - [Patate Douce](#Patate-Douce)
+- [Asperges](#Asperges)
 
 ### Viandes
 
@@ -50,6 +51,10 @@ Pâtes :
 #### Patate Douce
 
 - Bateau (https://www.fraichementpresse.ca/recettes/recette-bateau-patate-douce-oeuf-1.3732622?)
+
+#### Asperges
+
+- Risotto https://www.ricardocuisine.com/recettes/5427-risotto-aux-asperges
  
 ## Viandes
 
