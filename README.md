@@ -28,7 +28,6 @@ __________
 - Moussaka (https://www.750g.com/moussaka-vegetarienne-r41376.htm)
 - Caviar d'Aubergine (https://www.ricardocuisine.com/recettes/7967-caviar-d-aubergine-tomate) [rapide]
 
-
 #### Courge
 
 - Courge spaghetti (https://www.ricardocuisine.com/recettes/4859-courge-spaghetti-aux-oignons-aux-tomates-et-aux-olives) [top!]
@@ -38,6 +37,10 @@ __________
 Cari :
   - https://www.ricardocuisine.com/recettes/8772-cari-de-fromage-paneer-aux-epinards-saag-paneer
   - http://www.casseroleetchocolat.fr/curry-epinards-tomates/ [done]
+  
+Pâtes :
+ - Cannellonis https://cuisine.journaldesfemmes.fr/recette/323109-cannellonis-ricotta-epinard [cool]
+ - Lasagnes https://www.femmeactuelle.fr/cuisine/recettes/plat/lasagnes-ricotta-epinards-04962
   
 #### Poireaux
 
