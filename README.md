@@ -10,6 +10,7 @@ A bunch of cooking recipes when I run out of ideas for diner
 - [Poireaux](#Poireaux)
 - [Patate Douce](#Patate-Douce)
 - [Asperges](#Asperges)
+- [Soupes](#Soupes)
 
 ### Viandes
 
@@ -55,6 +56,10 @@ Pâtes :
 #### Asperges
 
 - Risotto https://www.ricardocuisine.com/recettes/5427-risotto-aux-asperges
+
+#### Soupes
+
+- Rutabaga/Carotte https://www.ricardocuisine.com/recettes/5174-creme-de-rutabaga-aux-carottes-et-a-l-erable
  
 ## Viandes
 
