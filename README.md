@@ -60,6 +60,7 @@ Pâtes :
 #### Soupes
 
 - Rutabaga/Carotte https://www.ricardocuisine.com/recettes/5174-creme-de-rutabaga-aux-carottes-et-a-l-erable
+- Poires/Poireaux https://www.recettes.qc.ca/recettes/recette/potage-poires-et-poireaux-3619
  
 ## Viandes
 
